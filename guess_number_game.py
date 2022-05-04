@@ -28,6 +28,6 @@ while True:
         print("You were below the number")
     else :
         print("You were above the number")
-print("You got it in",guesses,"guesses.")
+print("You got it in",guesses,"guesses")
 
 
