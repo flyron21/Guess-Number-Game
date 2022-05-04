@@ -29,5 +29,7 @@ while True:
     else :
         print("You were above the number")
 print("You got it in",guesses,"guesses")
+input("\n \nPress any key to exit.")
+
 
 
